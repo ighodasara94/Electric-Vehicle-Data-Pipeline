@@ -10,7 +10,6 @@ import time
 import datetime
 import requests
 import pandas as pd
-import numpy as np
 from sqlalchemy import create_engine
 
 print("Starting data pipeline at ", datetime.datetime.now().strftime('%Y:%m:%d %H:%M:%S'))
